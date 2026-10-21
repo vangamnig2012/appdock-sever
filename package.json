@@ -1,0 +1,8 @@
+{
+  "name": "appdock-server",
+  "version": "1.0.0",
+  "description": "Appdock app catalog with a shared Node.js backend (no dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
